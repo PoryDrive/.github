@@ -6,4 +6,3 @@ One of my main goals in this project is to see if I can train a neural network t
 - distance from porygon is less than last
 - collisions to hit porygon is less than last
 - time to hit porygon is less than last
-- 
